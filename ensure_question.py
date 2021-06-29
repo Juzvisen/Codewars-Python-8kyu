@@ -1,7 +1,7 @@
-# https://www.codewars.com/kata/5866fc43395d9138a7000006/train/python
+# https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/python
 
 
-def ensure_question(s):
-	return s.rstrip("?") + "?"
+def get_age(age):
+	return int(age[0])
 
 
