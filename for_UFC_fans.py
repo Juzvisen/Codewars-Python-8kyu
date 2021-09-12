@@ -8,3 +8,6 @@ statements = {
 
 def quote(fighter):
     return statements[fighter.lower()]
+
+
+    
