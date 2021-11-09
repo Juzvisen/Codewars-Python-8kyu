@@ -7,4 +7,3 @@ def elevator(left, right, call):
 	else:
 		return "right"
 
-print(elevator(0,2,1))
